@@ -1,3 +1,5 @@
+## 原生开发
+- server、前端、sql、redis、nginx
 - 处理HTTP接口
 - 连接数据库
 - 实现登录
@@ -5,7 +7,7 @@
 - 日志
 ## 核心知识点
 - http, nodejs处理http、处理路由、mysql
-- cookie， session，redis，niginx反向代理
+- cookie， session，redis，nginx反向代理
 - sql注入、xss攻击、加密
 - 日志，stream,contrab,readline
 ## server和前端的区别
